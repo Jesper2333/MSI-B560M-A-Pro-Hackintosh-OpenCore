@@ -50,10 +50,10 @@ BIOS设置提醒
 
 运行效果图
 -
-![1](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p1.png)
+![1](https://github.com/Jesper2333/MSI-B560M-A-Pro-Hackintosh-OpenCore/blob/main/p1.png)
 
-![2](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p2.png)
+![2](https://github.com/Jesper2333/MSI-B560M-A-Pro-Hackintosh-OpenCore/blob/main/p2.png)
 
-![3](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p3.png)
+![3](https://github.com/Jesper2333/MSI-B560M-A-Pro-Hackintosh-OpenCore/blob/main/p3.png)
 
 
