@@ -56,4 +56,4 @@ BIOS设置提醒
 
 ![3](https://github.com/Jesper2333/MSI-B560M-A-Pro-Hackintosh-OpenCore/blob/main/p3.jpg)
 
-
+![4](https://github.com/Jesper2333/MSI-B560M-A-Pro-Hackintosh-OpenCore/blob/main/p4.jpg)
