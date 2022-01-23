@@ -12,10 +12,15 @@ BIOS设置提醒
 -
 
 1、关闭Secure Boot
+
 2、关闭Fast Boot
+
 3、关闭TPM2.0
+
 4、启动改为纯UEFI（关闭CSM）
+
 5、开启核显，DVMT设置为64MB
+
 6、必须关闭MSR
 
 
